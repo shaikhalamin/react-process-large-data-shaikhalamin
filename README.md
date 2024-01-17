@@ -1,5 +1,15 @@
 # Render Virtualized
 
+## Project run instructions:
+
+- git clone https://github.com/shaikhalamin/react-process-large-data-shaikhalamin.git
+- yarn install
+- yarn run dev
+
+## Features added
+- Dynamically load large data without memory issue
+- Added search functionality inside the large dataset
+
 ## Interview Environment Setup
 
 - Candidate is allowed to use google or any kind of assistance to complete this assessment
